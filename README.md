@@ -2,15 +2,12 @@
 
 A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+##WORKING SCREENSHOTS
+<img src="assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-08-07%20at%2018.46.43.png" alt="Screenshot" width="400"/>
+<img src="assets/Simulator Screen Shot - iPhone 14 Pro - 2023-08-07 at 18.47.19.png" alt="Screenshot" width="400"/>
+<img src="assets/Simulator Screen Shot - iPhone 14 Pro - 2023-08-07 at 18.55.58.png" width="400"/>
+<img src="assets/Simulator Screen Shot - iPhone 14 Pro - 2023-08-07 at 18.56.18.png" alt="Screenshot" width="400"/>
+<img src="assets/Simulator Screen Shot - iPhone 14 Pro - 2023-08-07 at 18.56.40.png" alt="Screenshot" width="400"/>
+<img src="assets/Simulator Screen Shot - iPhone 14 Pro - 2023-08-07 at 19.04.59.png" alt="Screenshot" width="400"/>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
